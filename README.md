@@ -1,2 +1,1 @@
-# vue-pro
-to be use vue
+这是在vue-pro 仓库的阳分支下写的代码，
